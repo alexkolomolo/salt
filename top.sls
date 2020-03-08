@@ -1,3 +1,4 @@
+base:
   'pkg_spiderman:v0_1':
     - match: pillar
     - spiderman.v0_1
