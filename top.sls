@@ -7,3 +7,5 @@ base:
     - match: pillar
     - spiderman.v0_2
 
+  '*':
+    - test
